@@ -1,19 +1,21 @@
 full_name_of_repo,commit_sha,url,path,is_ccdc_event,detected_channel
 4Catalyzer/graphql-validation-complexity,2f63af74b2683188abd0148a36d951605e719aa9,https://github.com/4Catalyzer/graphql-validation-complexity/commit/2f63af74b2683188abd0148a36d951605e719aa9 ,README.md,False,
-A3Wasteland/ArmA3_Wasteland.Altis,4b6da10c89bbf6a3f1387a6df50fa6780ba2e8a6,https://github.com/A3Wasteland/ArmA3_Wasteland.Altis/commit/4b6da10c89bbf6a3f1387a6df50fa6780ba2e8a6 ,README.md,False,
+A3Wasteland/ArmA3_Wasteland.Altis,4b6da10c89bbf6a3f1387a6df50fa6780ba2e8a6,https://github.com/A3Wasteland/ArmA3_Wasteland.Altis/commit/4b6da10c89bbf6a3f1387a6df50fa6780ba2e8a6 ,README.md,True,forum
 BedrockStreaming/RedisMock,1f65f22081c426c9c5f428c69640fb5af32fe511,https://github.com/BedrockStreaming/RedisMock/commit/1f65f22081c426c9c5f428c69640fb5af32fe511 ,README.md,False,
 BedrockStreaming/RedisMock,beb991d24425195ccf218aade225c6e27cb72288,https://github.com/BedrockStreaming/RedisMock/commit/beb991d24425195ccf218aade225c6e27cb72288 ,README.md,False,
 BedrockStreaming/RedisMock,cfa7403367007900b7a9a9e5fb9eb1beb3b35a5d,https://github.com/BedrockStreaming/RedisMock/commit/cfa7403367007900b7a9a9e5fb9eb1beb3b35a5d ,README.md,False,
 BedrockStreaming/RedisMock,f71700dd6ffffdf9454d5ad5870a943079e75187,https://github.com/BedrockStreaming/RedisMock/commit/f71700dd6ffffdf9454d5ad5870a943079e75187 ,README.md,False,
-ChrisPenner/rasa,92c5ca7bee242649e8ab277bf8ac824f067a6cdf,https://github.com/ChrisPenner/rasa/commit/92c5ca7bee242649e8ab277bf8ac824f067a6cdf ,README.md,False,
+ChrisPenner/rasa,92c5ca7bee242649e8ab277bf8ac824f067a6cdf,https://github.com/ChrisPenner/rasa/commit/92c5ca7bee242649e8ab277bf8ac824f067a6cdf ,README.md,True,github_issues
 CosmoCMS/Cosmo,9d5e5a292df07da225ff95129bd0ad69db53746c,https://github.com/CosmoCMS/Cosmo/commit/9d5e5a292df07da225ff95129bd0ad69db53746c ,README.md,False,
 DH-Box/dhbox,b696f8e6e71a9c6f76e88592422bb35625ecf1f4,https://github.com/DH-Box/dhbox/commit/b696f8e6e71a9c6f76e88592422bb35625ecf1f4 ,README.md,False,
-Dan-in-CA/SIP,188bc6309ca93f110d6e8728293fb302d622650f,https://github.com/Dan-in-CA/SIP/commit/188bc6309ca93f110d6e8728293fb302d622650f ,README.md,False,
-Dan-in-CA/SIP,7f90e85242059df0878500ba4377f59b7d23c967,https://github.com/Dan-in-CA/SIP/commit/7f90e85242059df0878500ba4377f59b7d23c967 ,README.md,False,
-Doozer-Framework/Doozr,2878c08b566d73249b9d7697c6e45b0d43430894,https://github.com/Doozer-Framework/Doozr/commit/2878c08b566d73249b9d7697c6e45b0d43430894 ,README.md,False,
+Dan-in-CA/SIP,188bc6309ca93f110d6e8728293fb302d622650f,https://github.com/Dan-in-CA/SIP/commit/188bc6309ca93f110d6e8728293fb302d622650f ,README.md,True,website
+Dan-in-CA/SIP,7f90e85242059df0878500ba4377f59b7d23c967,https://github.com/Dan-in-CA/SIP/commit/7f90e85242059df0878500ba4377f59b7d23c967 ,README.md,True,github_wiki
+Doozer-Framework/Doozr,2878c08b566d73249b9d7697c6e45b0d43430894,https://github.com/Doozer-Framework/Doozr/commit/2878c08b566d73249b9d7697c6e45b0d43430894 ,README.md,True,github_wiki
+Doozer-Framework/Doozr,2878c08b566d73249b9d7697c6e45b0d43430894,https://github.com/Doozer-Framework/Doozr/commit/2878c08b566d73249b9d7697c6e45b0d43430894 ,README.md,True,twitter
 EragonJ/Trip.js,1c7311622a0150b8faced01c8a5944601b282cee,https://github.com/EragonJ/Trip.js/commit/1c7311622a0150b8faced01c8a5944601b282cee ,README.md,False,
-EragonJ/Trip.js,1ce8220c842ec7c45bd0b5ed48ae9d27cc186e34,https://github.com/EragonJ/Trip.js/commit/1ce8220c842ec7c45bd0b5ed48ae9d27cc186e34 ,README.md,False,
+EragonJ/Trip.js,1ce8220c842ec7c45bd0b5ed48ae9d27cc186e34,https://github.com/EragonJ/Trip.js/commit/1ce8220c842ec7c45bd0b5ed48ae9d27cc186e34 ,README.md,True,website
 EragonJ/Trip.js,5b38e7aabe697cab248ed1e784246bca40498e1f,https://github.com/EragonJ/Trip.js/commit/5b38e7aabe697cab248ed1e784246bca40498e1f ,README.md,False,
+BOOKMARK
 Farama-Foundation/ViZDoom,3ded9f79fdaa2e145a9824c19dd14c6766dbb8df,https://github.com/Farama-Foundation/ViZDoom/commit/3ded9f79fdaa2e145a9824c19dd14c6766dbb8df ,README.md,False,
 Farama-Foundation/ViZDoom,941b88a0eb78f844fd3df0034092151d26aea72e,https://github.com/Farama-Foundation/ViZDoom/commit/941b88a0eb78f844fd3df0034092151d26aea72e ,README.md,False,
 Farama-Foundation/ViZDoom,9fb7ef269376a526310ccf33a0ce906a94f4fe53,https://github.com/Farama-Foundation/ViZDoom/commit/9fb7ef269376a526310ccf33a0ce906a94f4fe53 ,README.md,False,

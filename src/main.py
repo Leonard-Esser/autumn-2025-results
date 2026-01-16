@@ -50,7 +50,7 @@ def _prepare_manual_verification(
     )
     export_df(
         df[config.COLUMNS_FOR_MANUAL_VERIFICATION],
-        path=data(root) / f"manual_verification_of_{k}_random_subjects.csv",
+        path=data(root) / f"manual_analysis_of_{k}_random_subjects.csv",
     )
 
 
