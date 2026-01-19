@@ -1,0 +1,19 @@
+full_name_of_repo,commit_sha,url,path,is_ccdc_event,detected_channel
+ChrisPenner/rasa,92c5ca7bee242649e8ab277bf8ac824f067a6cdf,https://github.com/ChrisPenner/rasa/commit/92c5ca7bee242649e8ab277bf8ac824f067a6cdf ,README.md,True,github_issues
+Dan-in-CA/SIP,188bc6309ca93f110d6e8728293fb302d622650f,https://github.com/Dan-in-CA/SIP/commit/188bc6309ca93f110d6e8728293fb302d622650f ,README.md,True,website
+Dan-in-CA/SIP,7f90e85242059df0878500ba4377f59b7d23c967,https://github.com/Dan-in-CA/SIP/commit/7f90e85242059df0878500ba4377f59b7d23c967 ,README.md,True,github_wiki
+Doozer-Framework/Doozr,2878c08b566d73249b9d7697c6e45b0d43430894,https://github.com/Doozer-Framework/Doozr/commit/2878c08b566d73249b9d7697c6e45b0d43430894 ,README.md,True,github_wiki
+HearthSim/SabberStone,6d04430d4a2ab4f62c7cf38b00ff3e7579a3dc03,https://github.com/HearthSim/SabberStone/commit/6d04430d4a2ab4f62c7cf38b00ff3e7579a3dc03 ,README.md,True,github_wiki
+cerebral/overmind,ac0be85a904c0eb72b4559b51c7b335d6a2007c9,https://github.com/cerebral/overmind/commit/ac0be85a904c0eb72b4559b51c7b335d6a2007c9 ,README.md,True,website
+eslint/eslint-github-bot,2a824ef471c43bec922a03df8b6adcc6600f5d5b,https://github.com/eslint/eslint-github-bot/commit/2a824ef471c43bec922a03df8b6adcc6600f5d5b ,README.md,True,pull_request
+flexera-public/policy_templates,7e4fac92ade0a2504c050bb0172acca043cffb76,https://github.com/flexera-public/policy_templates/commit/7e4fac92ade0a2504c050bb0172acca043cffb76 ,CONTRIBUTING.md,True,pull_request
+flexera-public/policy_templates,7e4fac92ade0a2504c050bb0172acca043cffb76,https://github.com/flexera-public/policy_templates/commit/7e4fac92ade0a2504c050bb0172acca043cffb76 ,CONTRIBUTING.md,True,github_issues
+mattermost/desktop,90202f1fbe9382c1328b0eff278e4208edb60a5e,https://github.com/mattermost/desktop/commit/90202f1fbe9382c1328b0eff278e4208edb60a5e ,CONTRIBUTING.md,True,pull_request
+plotly/plotly.js,33beb43f40851bb6f68b9d1716129d13fb53aae5,https://github.com/plotly/plotly.js/commit/33beb43f40851bb6f68b9d1716129d13fb53aae5 ,README.md,True,stack_overflow
+plotly/plotly.js,33beb43f40851bb6f68b9d1716129d13fb53aae5,https://github.com/plotly/plotly.js/commit/33beb43f40851bb6f68b9d1716129d13fb53aae5 ,README.md,True,forum
+plotly/plotly.js,33beb43f40851bb6f68b9d1716129d13fb53aae5,https://github.com/plotly/plotly.js/commit/33beb43f40851bb6f68b9d1716129d13fb53aae5 ,README.md,True,ping_on_github
+plotly/plotly.js,33beb43f40851bb6f68b9d1716129d13fb53aae5,https://github.com/plotly/plotly.js/commit/33beb43f40851bb6f68b9d1716129d13fb53aae5 ,README.md,True,twitter
+plotly/plotly.js,9abfb4bbb2696f171537d1f6d9771f8aa065b573,https://github.com/plotly/plotly.js/commit/9abfb4bbb2696f171537d1f6d9771f8aa065b573 ,README.md,True,twitter
+plotly/plotly.js,9abfb4bbb2696f171537d1f6d9771f8aa065b573,https://github.com/plotly/plotly.js/commit/9abfb4bbb2696f171537d1f6d9771f8aa065b573 ,README.md,True,forum
+plotly/plotly.js,9abfb4bbb2696f171537d1f6d9771f8aa065b573,https://github.com/plotly/plotly.js/commit/9abfb4bbb2696f171537d1f6d9771f8aa065b573 ,README.md,True,stack_overflow
+simonmichael/hledger,fce0a690dd1a2c533dfb74d99cb56a3d87ce0fff,https://github.com/simonmichael/hledger/commit/fce0a690dd1a2c533dfb74d99cb56a3d87ce0fff ,CONTRIBUTING.md,True,pull_request
