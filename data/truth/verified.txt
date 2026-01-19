@@ -1,0 +1,178 @@
+Verification report
+===================
+
+Expected file: /Users/leonardesser/Coding/Hohenheim/thesis/autumn-2025-results/data/truth/truth.csv
+Actual file:   /Users/leonardesser/Coding/Hohenheim/thesis/autumn-2025-results/data/raw_results/raw_results.csv
+
+Subject key columns: full_name_of_repo, commit_sha, path
+Note: Channels are compared ONLY when expected.is_ccdc_event == True.
+
+Coverage
+--------
+Subjects in expected: 385
+Subjects in actual:   17694
+Subjects compared (intersection): 385
+Missing in actual (expected - actual): 0
+Extra in actual (actual - expected):   17309
+
+Classification (based on is_ccdc_event)
+--------------------------------------
+TP: 21
+TN: 281
+FP: 73
+FN: 10
+
+Channel comparison (only where expected.is_ccdc_event == True)
+-------------------------------------------------------------
+Channel OK:        11
+Channel mismatches:20
+
+is_ccdc_event mismatches
+------------------------
+- ChrisPenner/rasa | 92c5ca7bee242649e8ab277bf8ac824f067a6cdf | README.md | expected=True actual=False
+- Dan-in-CA/SIP | 7f90e85242059df0878500ba4377f59b7d23c967 | README.md | expected=True actual=False
+- Farama-Foundation/ViZDoom | 941b88a0eb78f844fd3df0034092151d26aea72e | README.md | expected=False actual=True
+- ForgeRock/forgeops | 9aedc8b7e2b53f217e903fe79a150a3c27da03bf | README.md | expected=False actual=True
+- ForgeRock/forgeops | b8ab95c460aaeb2551077e2cc268e09f8ea5b261 | README.md | expected=False actual=True
+- HearthSim/SabberStone | 6d04430d4a2ab4f62c7cf38b00ff3e7579a3dc03 | README.md | expected=True actual=False
+- JessYanCoding/MVPArms | 2c559a9c0f963c6002aa8d547804ec20d205a12e | README.md | expected=False actual=True
+- KartikTalwar/gmail.js | 83d57e2db20a2ac69def44702d89b6368a8982a7 | CONTRIBUTING.md | expected=False actual=True
+- KartikTalwar/gmail.js | d5e36750bc97778ed938092442368d6c8f70e228 | README.md | expected=False actual=True
+- MaslowCNC/GroundControl | 761f1d82ce180b8eef6f1c185139bf6f5dfe5938 | README.md | expected=False actual=True
+- QuickBox/QB | cf9959f59fa034afb2c95a400516fd9ed90e968e | README.md | expected=False actual=True
+- Raku/atom-language | c13f2b136bf43714603623d2ac5d06aa0414a5f5 | README.md | expected=False actual=True
+- RustAudio/rust-jack | 251f6353f76637054f6ae14db3857378c06e0df0 | README.md | expected=False actual=True
+- SandersForPresident/BernieBNB | 83952958daf5492a68911ee10478e256ef5a90ca | README.md | expected=False actual=True
+- SciRuby/daru | 497f6020ad89e65bac9cc599df78686317683c2d | README.md | expected=False actual=True
+- TeleMidia/ginga | 4716ed6694405d7b63945fdf0b86296ac18f7b1e | README.md | expected=False actual=True
+- academic-moodle-cooperation/moodle-mod_publication | 5caaa404081f85ffcd27cf038b703ac7355750ad | README.md | expected=False actual=True
+- apache/shardingsphere | 97d5b0f4a74bce77c80e75a41a4d8bb30866b91e | README.md | expected=False actual=True
+- bids-standard/bids-validator | e9a0f0b9b3fb23df42936f728c2ab06ec9dd5ef4 | CONTRIBUTING.md | expected=False actual=True
+- cerebral/overmind | ac0be85a904c0eb72b4559b51c7b335d6a2007c9 | README.md | expected=True actual=False
+- contentful/contentful-management.js | 65466b139ecca742ede0f021954f7620c6ead3f3 | README.md | expected=False actual=True
+- dachcom-digital/pimcore-toolbox | 4408601f6ab0d7260a0fef7600beda8581b8001f | README.md | expected=False actual=True
+- dachcom-digital/pimcore-toolbox | b3f3dc63c605e2ef922130c1d2c1e2a5abead310 | README.md | expected=True actual=False
+- danieleteti/delphimvcframework | 3b4f01917ea27823c670528411403eb4316b2c48 | README.md | expected=False actual=True
+- deepweeb/B-B-W | 915b90cfb639f4516162c03982096601fe23d601 | README.md | expected=False actual=True
+- deis/workflow-cli | fc92fef1c3bf77d1794af86fa7365f352e5c11ad | README.md | expected=False actual=True
+- eslint/eslint-github-bot | 1d87f6c28b36781d5e850a65962c409d6351741d | README.md | expected=False actual=True
+- eslint/eslint-github-bot | 2a824ef471c43bec922a03df8b6adcc6600f5d5b | README.md | expected=True actual=False
+- eslint/eslint-github-bot | 9eca7fd59e28a684b182c94fcda3ed24eb31ea14 | README.md | expected=False actual=True
+- firebase/firebaseui-web | 80ff09a67eda047cf39f22b26e302a503de3d43a | README.md | expected=False actual=True
+- flexera-public/policy_templates | 441be08d5b4993de75dd6b2217724d47eddd7a10 | README.md | expected=False actual=True
+- flexera-public/policy_templates | 7e4fac92ade0a2504c050bb0172acca043cffb76 | CONTRIBUTING.md | expected=True actual=False
+- flexera-public/policy_templates | 9973f485fd095198e08404a258eb419834582be5 | README.md | expected=False actual=True
+- flexera-public/policy_templates | eabd8ba479a8d29593e6ab89676676fd96118e70 | README.md | expected=False actual=True
+- fus-marcom/franciscan-react | fe2ae063ce10bca62fbc807f3927d5b854cbe5d3 | README.md | expected=False actual=True
+- gctools-outilsgc/gcconnex | 7682d367b213daa6901076f9d3e84e0a75c90db7 | README.md | expected=False actual=True
+- hoodiehq/hoodie | ac6fdfc104aabda49926beaa40c448d262be4ebc | README.md | expected=False actual=True
+- hoodiehq/hoodie | c825821beaa633833053ae8c2e622150bb310786 | README.md | expected=False actual=True
+- http-kit/http-kit | 2a74dbf57213b080fd8c75d2659ff05d595ceb64 | README.md | expected=False actual=True
+- http-kit/http-kit | 711f7b1789d205d03f385b9e35e317c9e1f827c4 | README.md | expected=False actual=True
+- i18next/i18next-gitbook | 1566121d704e04ab1d9ef8b0fe1823e7e47b642c | README.md | expected=False actual=True
+- i18next/i18next-gitbook | b064fd1686772f8f8797bf15b60e2474c8183323 | README.md | expected=False actual=True
+- iobroker-community-adapters/ioBroker.telegram | 79547efff86e45472d489330760f3cd3fafe5223 | README.md | expected=False actual=True
+- jackc/pgx | 1dc45f1fa03eb82ac9a110219361752bfe5474f3 | README.md | expected=False actual=True
+- keymetrics/pmx | f805133515775416f96aaf548e41eec4eb61fcb6 | README.md | expected=False actual=True
+- kube-reporting/metering-operator | c0238ab294ed4f6e7bfed2645550244c6c026597 | README.md | expected=False actual=True
+- lanl-ansi/Alpine.jl | 5f5a06d9d5f9eb54a6c603dcaf4effed33143fc0 | README.md | expected=False actual=True
+- lanl-ansi/Alpine.jl | 6c032be5ceca0ea08c23313203a6c2432ea243e1 | README.md | expected=False actual=True
+- lavab/web | d3e57ec5ebbe24f695d96ccac268a93c9c48e593 | README.md | expected=False actual=True
+- maproulette/maproulette-backend | 9c545001d27f088f536702c3f3546164b34d3888 | README.md | expected=False actual=True
+- mattermost/desktop | 90202f1fbe9382c1328b0eff278e4208edb60a5e | CONTRIBUTING.md | expected=True actual=False
+- metarhia/globalstorage | caf7733e50ff70cf16baa6ecb2dcc5b1e002d955 | README.md | expected=False actual=True
+- nuagenetworks/monolithe | aac9e55d88794006d1c075d7281acc92effaccea | README.md | expected=False actual=True
+- pachyderm/pachyderm | 48c351aa438962f73ab3938b9544da111975645c | README.md | expected=False actual=True
+- pachyderm/pachyderm | 794a79ffcb78d8a2c06f0038d9d98711a70550c4 | README.md | expected=False actual=True
+- pachyderm/pachyderm | ba8be8c53d37050ac68f38572dcb99116065a2fd | README.md | expected=False actual=True
+- percival-detector/percivalui | 572a7c470a9e1559ab2027dbc2761a292b43a98c | README.md | expected=False actual=True
+- plotly/plotly.js | 7a402a32792a133da4ca11ac0e4af4ef98c263d2 | CONTRIBUTING.md | expected=False actual=True
+- plotly/plotly.js | 9699409656ff80afa4a3f653f0fddf892b1200cb | README.md | expected=False actual=True
+- plotly/plotly.js | 98bd1bc4dcd8a7de84a8ad276a004fe5cd26e281 | CONTRIBUTING.md | expected=False actual=True
+- public-transport/hafas-client | 4ba4cefab671fa723574c719474f1bd58d68b110 | readme.md | expected=False actual=True
+- quantopian/qdb | 354946fb441a61f62ab0bf0005698e3cb2705046 | README.md | expected=False actual=True
+- rbuckton/grammarkdown | f4f2874b1727c55721ca72b81862da18478aada6 | README.md | expected=False actual=True
+- robreuss/VirtualGameController | 39bdeb164434ab4be8050d1612f0eece389da8f8 | README.md | expected=False actual=True
+- sendbird/SendBird-SDK-JavaScript | 2433b9ac1d1bd40f0ec470a43adb218b99d73fe0 | README.md | expected=False actual=True
+- sendbird/SendBird-SDK-JavaScript | a2c23b974ffcd290455d1d7f9addde6da1aa4cf0 | README.md | expected=False actual=True
+- sendbird/SendBird-SDK-JavaScript | d3fb4816fe49ebd1d834a55025a934c50948f156 | README.md | expected=False actual=True
+- sendbird/SendBird-SDK-JavaScript | dd192dd2568f49aa88e591a51fe48c5564d94676 | README.md | expected=False actual=True
+- simonmichael/hledger | 3e1dd65048f62214c76302cc8f31dab23b566d4a | README.md | expected=False actual=True
+- sipwise/mediaproxy-ng | c7c62a1fea7e3457ac74f3676a15267deacd7418 | README.md | expected=False actual=True
+- spencermountain/compromise | 1e574946e157ac277e270988fc86630331122458 | README.md | expected=False actual=True
+- spencermountain/compromise | 8dc17b87738283a23774d1608c9ac8cdab3d8678 | README.md | expected=False actual=True
+- syncthing/syncthing | ae882c93c9f0052827722f0584f086b230959600 | CONTRIBUTING.md | expected=True actual=False
+- tokuhirom/Amon | de191154c37a2e456a45f6afff042f4c742dbead | README.md | expected=True actual=False
+- trevordevore/levure | 4189529730fa9daee7672083f0f828f93647fe1a | README.md | expected=False actual=True
+- voxpupuli/puppet-bacula | 25bc55d5804f8aa04cff754e1e63e6190daa598f | README.md | expected=False actual=True
+- voxpupuli/puppet-bacula | 8e715a16631da9f9e7f42c0d3bf4a57ad7f7a8dd | README.md | expected=False actual=True
+- wmcmahan/react-native-calendar-events | d8eeb7b90db7d911920ee2021f13dedba56c9b9a | CONTRIBUTING.md | expected=False actual=True
+- zendesk/sunshine-conversations-web | 7d6015e084c8384881c34a8f758276ae78ea0231 | README.md | expected=False actual=True
+- zendesk/sunshine-conversations-web | 9f89399b4da913a4d4ba9a816da72de858bd87b6 | README.md | expected=False actual=True
+- zendesk/sunshine-conversations-web | b47eb61ed2c62fc32802353b886fd4b7637b0389 | README.md | expected=False actual=True
+- zenhack/haskell-capnp | 9992c99e3cf158899809468f3f056a8c7ca43974 | README.md | expected=False actual=True
+- zimmski/go-mutesting | bf864a833a22a8c5eb86b2e4e958dee61dd615a8 | README.md | expected=False actual=True
+
+Channel mismatches (expected.is_ccdc_event == True)
+--------------------------------------------------
+- A3Wasteland/ArmA3_Wasteland.Altis | 4b6da10c89bbf6a3f1387a6df50fa6780ba2e8a6 | README.md
+  expected_channels=['forum']
+  actual_channels  =[]
+- ChrisPenner/rasa | 92c5ca7bee242649e8ab277bf8ac824f067a6cdf | README.md
+  expected_channels=['github_issues']
+  actual_channels  =[]
+- Dan-in-CA/SIP | 188bc6309ca93f110d6e8728293fb302d622650f | README.md
+  expected_channels=['website']
+  actual_channels  =['forum', 'website']
+- Dan-in-CA/SIP | 7f90e85242059df0878500ba4377f59b7d23c967 | README.md
+  expected_channels=['github_wiki']
+  actual_channels  =['fork']
+- Doozer-Framework/Doozr | 2878c08b566d73249b9d7697c6e45b0d43430894 | README.md
+  expected_channels=['github_wiki', 'twitter']
+  actual_channels  =['fork', 'website']
+- MisterPhilip/omnibug | d105f447b5b816af49ab932b9de074ccdff68ae6 | README.md
+  expected_channels=['blog', 'discord']
+  actual_channels  =['blog', 'discord', 'form', 'website']
+- SandersForPresident/BernieBNB | 582189d427060fcbd242b552acddd5047692c224 | README.md
+  expected_channels=['mail', 'slack']
+  actual_channels  =['facebook', 'mail', 'slack']
+- SciTools/iris | 69131ca3b8bf936517f4eff07383e171a30c7647 | README.md
+  expected_channels=['github_issues', 'google_group', 'pull_request', 'stack_overflow']
+  actual_channels  =['form', 'forum', 'google_group', 'issues', 'ping_on_github', 'pull_request', 'stack_overflow']
+- contentful/contentful-management.js | 1d3aa35750fa2910bf2a596af8acfb6de06a08c0 | README.md
+  expected_channels=['github_issues', 'website']
+  actual_channels  =['github_issues', 'issues', 'ping_on_github']
+- dachcom-digital/pimcore-toolbox | b3f3dc63c605e2ef922130c1d2c1e2a5abead310 | README.md
+  expected_channels=['mail', 'website']
+  actual_channels  =[]
+- eslint/eslint-github-bot | 2a824ef471c43bec922a03df8b6adcc6600f5d5b | README.md
+  expected_channels=['pull_request']
+  actual_channels  =[]
+- flexera-public/policy_templates | 7e4fac92ade0a2504c050bb0172acca043cffb76 | CONTRIBUTING.md
+  expected_channels=['github_issues', 'pull_request']
+  actual_channels  =['github_issues', 'issues']
+- http-kit/http-kit | 489bfaecdd0de1420ef1de641bd49e62587216aa | README.md
+  expected_channels=['github_issues', 'ping_on_github', 'pull_request']
+  actual_channels  =['github_issues', 'pull_request']
+- mattermost/desktop | 1fdc7691d787f7a224fa7f6b1075a35ecace3d27 | CONTRIBUTING.md
+  expected_channels=['github_issues', 'pull_request']
+  actual_channels  =['pull_request']
+- plasma-umass/doppio | 2470e09ca4b7abdfd05993ebe1578f9a40d60a2b | README.md
+  expected_channels=['google_group', 'irc', 'mailing_list']
+  actual_channels  =['irc', 'mailing_list']
+- plotly/plotly.js | 33beb43f40851bb6f68b9d1716129d13fb53aae5 | README.md
+  expected_channels=['forum', 'ping_on_github', 'stack_overflow', 'twitter']
+  actual_channels  =['stack_overflow', 'twitter']
+- spf13/cobra | 8f097506fc1b3b1d2834e5446c7b22feecf6a23d | README.md
+  expected_channels=['ping_on_github', 'pull_request']
+  actual_channels  =['fork', 'pull_request']
+- syncthing/syncthing | 0255311bbe8bbad540122704819a67a391247c65 | README.md
+  expected_channels=['irc']
+  actual_channels  =[]
+- syncthing/syncthing | ae882c93c9f0052827722f0584f086b230959600 | CONTRIBUTING.md
+  expected_channels=['forum', 'wiki']
+  actual_channels  =[]
+- tokuhirom/Amon | de191154c37a2e456a45f6afff042f4c742dbead | README.md
+  expected_channels=['irc', 'mail']
+  actual_channels  =['irc']
+
